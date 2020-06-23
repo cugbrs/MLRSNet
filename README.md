@@ -4,5 +4,5 @@ MLRSNet provides different perspectives of the world captured from satellites. T
 
 The Dataset includes:
 1.	Images folder: 46 categories, 109,161 high-spatial resolution remote sensing images.
-2.	Labels folders: each category has two files (. xlsx and. csv) with the same contents.
+2.	Labels folders: each category has a . csv file.
 3.	Categories_names. xlsx: Sheet1 lists the names of 46 categories, and the Sheet2 shows the associated multi-label to each category.
