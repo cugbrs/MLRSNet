@@ -1,3 +1,4 @@
 Models/MLRSNet-DenseNet169.h5 filter=lfs diff=lfs merge=lfs -text
 Models/MLRSNet-DenseNet201.h5 filter=lfs diff=lfs merge=lfs -text
 Models/MLRSNet-InceptionV3.h5 filter=lfs diff=lfs merge=lfs -text
+Models/MLRSNet-VGG16.h5 filter=lfs diff=lfs merge=lfs -text
