@@ -4,3 +4,4 @@ Models/MLRSNet-InceptionV3.h5 filter=lfs diff=lfs merge=lfs -text
 Models/MLRSNet-VGG16.h5 filter=lfs diff=lfs merge=lfs -text
 Models/MLRSNet-VGG19.h5 filter=lfs diff=lfs merge=lfs -text
 Models/MLRSNet-ResNet50.h5 filter=lfs diff=lfs merge=lfs -text
+Models/MLRSNet-ResNet101.h5 filter=lfs diff=lfs merge=lfs -text
