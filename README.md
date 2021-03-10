@@ -8,3 +8,6 @@ The Dataset includes:
 3.	Categories_names. xlsx: Sheet1 lists the names of 46 categories, and the Sheet2 shows the associated multi-label to each category.
 
 The Models folder includes eight CNN models which are trained on the MLRSNet dataset with the training-validation-testing ratio is 40%-10%-50%. 
+
+More details are described in our paper:
+Qi, Xiaoman, et al. "MLRSNet: A multi-label high spatial resolution remote sensing dataset for semantic scene understanding." ISPRS Journal of Photogrammetry and Remote Sensing 169 (2020): 337-350.
