@@ -9,6 +9,11 @@ The Dataset includes:
 
 The Models folder includes eight CNN models which are trained on the MLRSNet dataset with the training-validation-testing ratio is 40%-10%-50%. 
 
+Requirements：
+· Python = 3.6
+· Tensorflow = 1.14.0
+· Keras = 2.3.1
+
 More details are described in our paper:
 
 Qi, Xiaoman, et al. "MLRSNet: A multi-label high spatial resolution remote sensing dataset for semantic scene understanding." ISPRS Journal of Photogrammetry and Remote Sensing 169 (2020): 337-350.
