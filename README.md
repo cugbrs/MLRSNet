@@ -14,5 +14,5 @@ The Models folder includes eight CNN models which are trained on the MLRSNet dat
 · Tensorflow = 1.14.0  
 · Keras = 2.3.1  
 
-**More details are described in our paper**: 
+**More details are described in our paper**:  
 Qi, Xiaoman, et al. "[MLRSNet: A multi-label high spatial resolution remote sensing dataset for semantic scene understanding.](https://www.sciencedirect.com/science/article/abs/pii/S0924271620302677)" ISPRS Journal of Photogrammetry and Remote Sensing 169 (2020): 337-350.
