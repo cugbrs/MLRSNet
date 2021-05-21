@@ -7,7 +7,7 @@ MLRSNet provides different perspectives of the world captured from satellites. T
 2.	Labels folders: each category has a . csv file.
 3.	Categories_names. xlsx: Sheet1 lists the names of 46 categories, and the Sheet2 shows the associated multi-label to each category.
 
-The Models folder includes eight CNN models which are trained on the MLRSNet dataset with the training-validation-testing ratio is 40%-10%-50%. 
+The trained Models includes eight CNN models which are trained on the MLRSNet dataset with the training-validation-testing ratio is 40%-10%-50%. 
 
 ## Requirements：
 · Python = 3.6  
